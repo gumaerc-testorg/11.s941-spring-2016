@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-s941-healthy-cities-assessing-health-impacts-of-policies-and-plans-spring-2016/3606e42d499a19989b5ddee203915cc8_11S941_S16_Garden.jpg
+file: /media/courses/11-s941-healthy-cities-assessing-health-impacts-of-policies-and-plans-spring-2016/3606e42d499a19989b5ddee203915cc8_11S941_S16_Garden.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWImage
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Image
 title: 11S941_S16_Garden.jpg
 uid: 3606e42d-499a-1998-9b5d-dee203915cc8

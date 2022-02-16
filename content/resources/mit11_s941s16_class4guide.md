@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains information regarding healthy cities: Assessing
   health impacts of policies and plans.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-s941-healthy-cities-assessing-health-impacts-of-policies-and-plans-spring-2016/a2493dfd5f86c75c1f6c1b79bc6e1c2b_MIT11_S941S16_Class4Guide.pdf
+file: /media/courses/11-s941-healthy-cities-assessing-health-impacts-of-policies-and-plans-spring-2016/a2493dfd5f86c75c1f6c1b79bc6e1c2b_MIT11_S941S16_Class4Guide.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 'Healthy Cities, Lecture 4 Study Guide: Health Disparities'
 uid: a2493dfd-5f86-c75c-1f6c-1b79bc6e1c2b
