@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 86c7fa85-5aaf-15a7-848f-8722c033f20f
 resourcetype: Document
 title: 'Healthy Cities, Lecture 15 Study Guide: HIA Assessment'
 uid: a2fd46bb-4d61-1e3f-d3f2-8c8e4d2a95ba

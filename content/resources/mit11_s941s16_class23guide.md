@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 86c7fa85-5aaf-15a7-848f-8722c033f20f
 resourcetype: Document
 title: 'Healthy Cities, Lecture 23 Study Guide: HIA Communicationsa'
 uid: 3a2165e5-3a9e-8bad-f8d8-71becf0d9891

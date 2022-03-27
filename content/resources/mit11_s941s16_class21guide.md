@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 86c7fa85-5aaf-15a7-848f-8722c033f20f
 resourcetype: Document
 title: 'Healthy Cities, Lecture 21 Study Guide: State of Practice'
 uid: 8c05767b-e672-3220-2367-121d026c5061

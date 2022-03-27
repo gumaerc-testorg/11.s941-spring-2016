@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 86c7fa85-5aaf-15a7-848f-8722c033f20f
 resourcetype: Document
 title: 'Healthy Cities, Lecture 4 Study Guide: Health Disparities'
 uid: a2493dfd-5f86-c75c-1f6c-1b79bc6e1c2b

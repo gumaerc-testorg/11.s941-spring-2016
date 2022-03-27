@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 86c7fa85-5aaf-15a7-848f-8722c033f20f
 resourcetype: Document
 title: 'Healthy Cities, Lecture 9 Study Guide: Neighborhoods, Built/Natural'
 uid: e8bf2942-5701-919a-bac5-367fc9c04ca0

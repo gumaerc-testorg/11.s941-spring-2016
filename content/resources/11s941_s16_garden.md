@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4a6c1e42-399a-1e23-75e5-ac3737993737
 resourcetype: Image
 title: 11S941_S16_Garden.jpg
 uid: 3606e42d-499a-1998-9b5d-dee203915cc8

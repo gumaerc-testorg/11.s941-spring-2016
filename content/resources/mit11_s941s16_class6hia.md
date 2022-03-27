@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 86c7fa85-5aaf-15a7-848f-8722c033f20f
 resourcetype: Document
 title: MIT11_S941S16_Class6HIA
 uid: af5a150c-e2eb-7985-e5ec-f070e73ac6ad
