@@ -2,10 +2,11 @@
 content_type: resource
 description: 'This resource contains information regarding healthy cities: Assessing
   health impacts of policies and plans.'
-file: /media/courses/11-s941-healthy-cities-assessing-health-impacts-of-policies-and-plans-spring-2016/9435ccef1ae563166bc533f61ad73ee3_MIT11_S941S16_Class5Guide.pdf
+file: /courses/11-s941-healthy-cities-assessing-health-impacts-of-policies-and-plans-spring-2016/9435ccef1ae563166bc533f61ad73ee3_MIT11_S941S16_Class5Guide.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,3 +15,4 @@ resourcetype: Document
 title: 'Healthy Cities, Lecture 5 Study Guide: Socioeconomic Status'
 uid: 9435ccef-1ae5-6316-6bc5-33f61ad73ee3
 ---
+This resource contains information regarding healthy cities: Assessing health impacts of policies and plans.

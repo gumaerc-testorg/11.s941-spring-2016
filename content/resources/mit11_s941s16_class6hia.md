@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-s941-healthy-cities-assessing-health-impacts-of-policies-and-plans-spring-2016/af5a150ce2eb7985e5ecf070e73ac6ad_MIT11_S941S16_Class6HIA.pdf
+file: /courses/11-s941-healthy-cities-assessing-health-impacts-of-policies-and-plans-spring-2016/af5a150ce2eb7985e5ecf070e73ac6ad_MIT11_S941S16_Class6HIA.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
