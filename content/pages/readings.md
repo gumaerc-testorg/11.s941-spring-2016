@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes information about the assigned readings for the
+  class.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -61,11 +63,11 @@ Krieger, Nancy. "[Theories for Social Epidemiology in the 21st century: An Ecoso
 {{< tdopen >}}
 
 
-Gottlieb, Laura, Paula K. Braverman, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_Health Impact Assessment: A Tool for Promoting Health in All Policies_." (PDF)](http://www.rwjf.org/content/dam/farm/reports/issue_briefs/2011/rwjf70449) Robert Wood Johnson Foundation, 2011. \[You may need to open this file manually in Adobe Acrobat\]
+Gottlieb, Laura, Paula K. Braverman, et al. ["_Health Impact Assessment: A Tool for Promoting Health in All Policies_." (PDF)](http://www.rwjf.org/content/dam/farm/reports/issue_briefs/2011/rwjf70449) Robert Wood Johnson Foundation, 2011. \[You may need to open this file manually in Adobe Acrobat\]
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif) Kemm, John. [Chapter 1](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199656011.001.0001/acprof-9780199656011) in _Health Impact Assessment: Past Achievement, Current Understanding, and Future Progress._ Oxford University Press, 2013. ISBN: 9780199656011.
+ Kemm, John. [Chapter 1](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199656011.001.0001/acprof-9780199656011) in _Health Impact Assessment: Past Achievement, Current Understanding, and Future Progress._ Oxford University Press, 2013. ISBN: 9780199656011.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_Findings and Recommendations of the Rapid Health Impact Assessment of the Proposed Farmers Field Development_." (PDF - 17.1MB)](http://www.pewtrusts.org/~/media/assets/2012/01/farmers-field-rapid-hia-final-report.pdf) Human Impact Partners, July 2012.
+["_Findings and Recommendations of the Rapid Health Impact Assessment of the Proposed Farmers Field Development_." (PDF - 17.1MB)](http://www.pewtrusts.org/~/media/assets/2012/01/farmers-field-rapid-hia-final-report.pdf) Human Impact Partners, July 2012.
 
 
 {{< tdclose >}}
@@ -78,7 +80,7 @@ Gottlieb, Laura, Paula K. Braverman, et al. ![This resource may not render corre
 {{< tdopen >}}
 
 
-[Class 4 Study Guide (PDF)]({{< baseurl >}}/resources/mit11_s941s16_class4guide)
+{{% resource_link a2493dfd-5f86-c75c-1f6c-1b79bc6e1c2b "Class 4 Study Guide (PDF)" %}}
 
 Sen, Amartya. "[Why Health Equity?](http://dx.doi.org/10.1002/hec.762)" _Health Economics_ 11, no. 8 (2002): 659–66.
 
@@ -97,13 +99,13 @@ Marmot, Michael, Sharon Friel, et al. "[Closing the Gap in A Generation: Health 
 {{< tdopen >}}
 
 
-[Class 5 Study Guide (PDF)]({{< baseurl >}}/resources/mit11_s941s16_class5guide)
+{{% resource_link 9435ccef-1ae5-6316-6bc5-33f61ad73ee3 "Class 5 Study Guide (PDF)" %}}
 
 Berkman, Lisa F., and Ichiro Kawachi, eds. Chapters 2, 5, and 6 in _Social Epidemiology_. Oxford University Press, 2000. ISBN: 9780195083316. \[Preview with [Google Books](http://books.google.com/books?id=VUO8fyCq2QEC&pg=PA13=onepage)\]
 
 White, Gillian. "[A Small Boost in Family Income Makes A Big Difference for Kids](http://www.theatlantic.com/business/archive/2015/09/income-inequality-poverty-children/407512/)." _The Atlantic_, 27 September, 2015.
 
-Marmot, Sir Michael. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Edited Transcript of Interview." (PDF)](http://www.unnaturalcauses.org/assets/uploads/file/MichaelMarmot.pdf) for _Unnatural Causes: Is Inequality Making Us Sick_? Public Broadcasting Service, 2008.
+Marmot, Sir Michael. ["Edited Transcript of Interview." (PDF)](http://www.unnaturalcauses.org/assets/uploads/file/MichaelMarmot.pdf) for _Unnatural Causes: Is Inequality Making Us Sick_? Public Broadcasting Service, 2008.
 
 Muennig, Peter, Lawrence Schweinhart, et al. "Effects of a Prekindergarten Educational Intervention on Adult Health: 37-year Follow-Up Results of a Randomized Controlled Trial." _American Journal of Public Health_ 99, no. 8 (2009): 1431–7. \[Read Introduction, Discussion to end\]
 
@@ -118,15 +120,15 @@ Muennig, Peter, Lawrence Schweinhart, et al. "Effects of a Prekindergarten Educa
 {{< tdopen >}}
 
 
-[Class 6 Study Guide (PDF)]({{< baseurl >}}/resources/mit11_s941s16_class6hia)
+{{% resource_link af5a150c-e2eb-7985-e5ec-f070e73ac6ad "Class 6 Study Guide (PDF)" %}}
 
 Kemm, John. [Chapters 3 and 4](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199656011.001.0001/acprof-9780199656011) in _Health Impact Assessment: Past Achievement, Current Understanding, and Future Progress._ Oxford University Press, 2013, pp. 9–15. ISBN: 9780199656011.
 
-Bhatia, Rajiv. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_Health Impact Assessment: A Guide for Practice_." (PDF - 6.5MB)](http://www.pewtrusts.org/~/media/assets/2011/01/01/bhatia_2011_hia_guide_for_practice.pdf) Human Impact Partners, 2011.
+Bhatia, Rajiv. ["_Health Impact Assessment: A Guide for Practice_." (PDF - 6.5MB)](http://www.pewtrusts.org/~/media/assets/2011/01/01/bhatia_2011_hia_guide_for_practice.pdf) Human Impact Partners, 2011.
 
 National Research Council, and Committee on Health Impact Assessment. _[Improving Health in the United States: The Role of Health Impact Assessment](https://www.nap.edu/catalog/13229/improving-health-in-the-united-states-the-role-of-health)_. National Academies Press, 2011, pp. 95–106. ISBN: 9780309218832. \[Preview with [Google Books](http://books.google.com/books?id=iuDsSXvKbMoC&pg=PA95=onepage)\]
 
-Revisited from class 3: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_Findings and Recommendations of the Rapid Health Impact Assessment of the Proposed Farmers Field Development. Human Impact Partners_." (PDF - 17.1MB)](http://www.pewtrusts.org/~/media/assets/2012/01/farmers-field-rapid-hia-final-report.pdf) Human Impact Partners, July 2012.
+Revisited from class 3: ["_Findings and Recommendations of the Rapid Health Impact Assessment of the Proposed Farmers Field Development. Human Impact Partners_." (PDF - 17.1MB)](http://www.pewtrusts.org/~/media/assets/2012/01/farmers-field-rapid-hia-final-report.pdf) Human Impact Partners, July 2012.
 
 
 {{< tdclose >}}
@@ -139,7 +141,7 @@ Revisited from class 3: ![This resource may not render correctly in a screen rea
 {{< tdopen >}}
 
 
-[Class 7 Study Guide (PDF)]({{< baseurl >}}/resources/mit11_s941s16_class7guide)
+{{% resource_link e44e46f3-fa84-5f91-eb4c-90ecdb7cd046 "Class 7 Study Guide (PDF)" %}}
 
 Berkman, Lisa F., and Ichiro Kawachi, eds. Chapter 3 in _Social Epidemiology_. Oxford University Press, 2000, pp. 67–76. ISBN: 9780195083316. \[Preview with [Google Books](https://books.google.com/books?id=VUO8fyCq2QEC&pg=PA36=onepage)\]
 
@@ -158,7 +160,7 @@ Lara, Marielena, Cristina Gamboa, et al. "[Acculturation and Latino Health in th
 {{< tdopen >}}
 
 
-[Class 8 Study Guide (PDF)]({{< baseurl >}}/resources/mit11_s941s16_class8guide)
+{{% resource_link 81c12187-6951-4bbf-e515-3491edb67e82 "Class 8 Study Guide (PDF)" %}}
 
 Dumont, Dora M., Brad Brockmann, et al. "[Public Health and the Epidemic of Incarceration](https://dx.doi.org/10.1146/annurev-publhealth-031811-124614)." _Annual Review of Public Health_ 33 (2012): 325–39.
 
@@ -179,7 +181,7 @@ Pager, Devah. "[The Mark of a Criminal Record1](http://dx.doi.org/10.1086/374403
 {{< tdopen >}}
 
 
-[Class 9 Study Guide (PDF)]({{< baseurl >}}/resources/mit11_s941s16_class9guide)
+{{% resource_link e8bf2942-5701-919a-bac5-367fc9c04ca0 "Class 9 Study Guide (PDF)" %}}
 
 Harlan, Sharon L., and Darren M. Ruddell. "[Climate Change and Health in Cities: Impacts of Heat and Air Pollution and Potential Co-Benefits from Mitigation and Adaptation](https://dx.doi.org/10.1016/j.cosust.2011.01.001)." _Current Opinion in Environmental Sustainability_ 3, no. 3 (2011): 126–34.
 
@@ -202,7 +204,7 @@ Miranda, Marie Lynn, Dohyeong Kim, et al. "[Environmental Contributors to the Ac
 {{< tdopen >}}
 
 
-[Class 10 Study Guide (PDF)]({{< baseurl >}}/resources/mit11_s941s16_class10guide)
+{{% resource_link 0444021a-3bc9-0452-9512-92b4250bb936 "Class 10 Study Guide (PDF)" %}}
 
 Ellen, Ingrid Gould, Tod Mijanovich, et al. "[Neighborhood Effects on Health: Exploring the Links and Assessing the Evidence](https://dx.doi.org/10.1111/0735-2166.00096)." _Journal of Urban Affairs_ 23, no. 3–4 (2001): 391–408.
 
@@ -223,7 +225,7 @@ Desmond, Matthew, and Rachel Tolbert Kimbro. "[Eviction's Fallout: Housing, Hard
 {{< tdopen >}}
 
 
-[Class 11 Study Guide (PDF)]({{< baseurl >}}/resources/mit11_s941s16_class11guide)
+{{% resource_link 3a5bfa62-2e2c-9dcb-d15b-fe0270195ba3 "Class 11 Study Guide (PDF)" %}}
 
 Krieger, Nancy, and George Davey Smith. "["Bodies Count," and Body Counts: Social Epidemiology and Embodying Inequality](https://dx.doi.org/ 10.1093/epirev/mxh009)." _Epidemiologic Reviews_ 26, no. 1 (2004): 92–103.
 
@@ -246,7 +248,7 @@ Dowd, Jennifer Beam, Anna Zajacova, et al. "[Early Origins of Health Disparities
 
 Frieden, Thomas R. "[A Framework for Public Health Action: The Health Impact Pyramid](https://pdfs.semanticscholar.org/432d/56f63542cc08f59ba68d823536776b6e2e6f.pdf?_ga=2.152179708.475975581.1565631504-672817412.1563980296)." _American Journal of Public Health_ 100, no. 4 (2010): 590–95.
 
-Cardenas, Vanessa, and Sarah Treuhaft. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Chapter 5." (PDF)](https://allinnation.org/ms-content/uploads/sites/2/2013/10/Essay-Ross.pdf) in _All-In Nation: An American that Works for All_. Center for American Progress, PolicyLink.
+Cardenas, Vanessa, and Sarah Treuhaft. ["Chapter 5." (PDF)](https://allinnation.org/ms-content/uploads/sites/2/2013/10/Essay-Ross.pdf) in _All-In Nation: An American that Works for All_. Center for American Progress, PolicyLink.
 
 
 {{< tdclose >}}
@@ -268,11 +270,11 @@ No readings – in-class presentations
 {{< tdopen >}}
 
 
-[Class 14 Study Guide (PDF)]({{< baseurl >}}/resources/mit11_s941s16_class14guide)
+{{% resource_link 199e31eb-68c2-4e96-5df7-4e8f9c0b2127 "Class 14 Study Guide (PDF)" %}}
 
 Botchwey, Nisha, Marla Orenstein, and Catherine L. Ross. Chapter 3 in _Health Impact Assessment in the United States_. Springer, 2014. ISBN: 9781461473022.
 
-Causa Justa Just Cause. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Development Without Displacement: Resisting Gentrification in the Bay Area." (PDF - 3.5MB)](http://cjjc.org/wp-content/uploads/2015/11/development-without-displacement.pdf) April (2014).
+Causa Justa Just Cause. ["Development Without Displacement: Resisting Gentrification in the Bay Area." (PDF - 3.5MB)](http://cjjc.org/wp-content/uploads/2015/11/development-without-displacement.pdf) April (2014).
 
 [SOPHIA: Society of Practitioners of Health Impact Assessment](https://sophia.wildapricot.org/Model-HIA-Reports)
 
@@ -287,7 +289,7 @@ Causa Justa Just Cause. ![This resource may not render correctly in a screen rea
 {{< tdopen >}}
 
 
-[Class 15 Study Guide (PDF)]({{< baseurl >}}/resources/mit11_s941s16_class15guide)
+{{% resource_link a2fd46bb-4d61-1e3f-d3f2-8c8e4d2a95ba "Class 15 Study Guide (PDF)" %}}
 
 Kemm, John. [Chapter 2](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199656011.001.0001/acprof-9780199656011-chapter-002) in _Health Impact Assessment: Past Achievement, Current Understanding, and Future Progress._ Oxford University Press, 2013. ISBN: 9780199656011.
 
@@ -338,7 +340,7 @@ No readings
 {{< tdopen >}}
 
 
-[Class 20 Study Guide (PDF)]({{< baseurl >}}/resources/mit11_s941s16_class20guide)
+{{% resource_link c8e701af-b9b7-0e4a-4778-1a438faa2c32 "Class 20 Study Guide (PDF)" %}}
 
 Quigley, Robert J., and Lorraine C. Taylor. "[Evaluating Health Impact Assessment](http://dx.doi.org/10.1016/j.puhe.2003.10.012)." _Public Health_ 118, no. 8 (2004): 544–52.
 
@@ -357,7 +359,7 @@ Haigh, Fiona, Fran Baum, et al. "[The Effectiveness of Health Impact Assessment 
 {{< tdopen >}}
 
 
-[Class 21 Study Guide (PDF)]({{< baseurl >}}/resources/mit11_s941s16_class21guide)
+{{% resource_link 8c05767b-e672-3220-2367-121d026c5061 "Class 21 Study Guide (PDF)" %}}
 
 Kemm, John. [Chapter 23](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199656011.001.0001/acprof-9780199656011-chapter-023) in _Health Impact Assessment: Past Achievement, Current Understanding, and Future Progress._ Oxford University Press, 2013. ISBN: 9780199656011.
 
@@ -389,11 +391,11 @@ Corburn, Jason, Shasa Curl, et al. "[A Health-In-All-Policies Approach Addresses
 {{< tdopen >}}
 
 
-[Class 23 Study Guide (PDF)]({{< baseurl >}}/resources/mit11_s941s16_class23guide)
+{{% resource_link 3a2165e5-3a9e-8bad-f8d8-71becf0d9891 "Class 23 Study Guide (PDF)" %}}
 
 Bassett, Mary T. "[#BlackLivesMatter—A Challenge to the Medical and Public Health Communities](https://dx.doi.org/10.1056/NEJMp1500529)." _The New England Journal of Medicine_ 372, no. 12 (2015): 1085–7.
 
-Chapters 1–3 in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A New Way to Talk About the Social Determinants of Health." (PDF – 3.7MB)](http://www.rwjf.org/content/dam/farm/reports/reports/2010/rwjf63023) Robert Wood Johnson Foundation, 2010. \[You may need to open this file manually in Adobe Acrobat\]
+Chapters 1–3 in ["A New Way to Talk About the Social Determinants of Health." (PDF – 3.7MB)](http://www.rwjf.org/content/dam/farm/reports/reports/2010/rwjf63023) Robert Wood Johnson Foundation, 2010. \[You may need to open this file manually in Adobe Acrobat\]
 
 Gollust, Sarah E., Jeff Niederdeppe, et al. "[Framing the Consequences of Childhood Obesity to Increase Public Support for Obesity Prevention Policy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828688/pdf/AJPH.2013.301271.pdf)." _American Journal of Public Health_ 103, no. 11 (2013): e96–102.
 
