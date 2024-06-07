@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding healthy cities: Assessing
   health impacts of policies and plans.'
 file: /courses/11-s941-healthy-cities-assessing-health-impacts-of-policies-and-plans-spring-2016/199e31eb68c24e965df74e8f9c0b2127_MIT11_S941S16_Class14Guide.pdf
+file_size: 915462
 file_type: application/pdf
 learning_resource_types:
 - Readings
