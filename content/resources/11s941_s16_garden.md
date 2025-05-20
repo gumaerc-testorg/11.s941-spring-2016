@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-s941-healthy-cities-assessing-health-impacts-of-policies-and-plans-spring-2016/3606e42d499a19989b5ddee203915cc8_11S941_S16_Garden.jpg
+file: /courses/11-s941-healthy-cities-assessing-health-impacts-of-policies-and-plans-spring-2016/3606e42d499a19989b5ddee203915cc8_11S941_S16_Garden.jpg
 file_size: 57485
 file_type: image/jpeg
 image_metadata:
