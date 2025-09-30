@@ -59,7 +59,7 @@ Synopsis of mortality and morbidity domestically and abroad; contrasting perspec
 
 **Rapid HIA, Training**
 
-Guest lecturer: [Barry Keppard, MAPC](https://www.mapc.org/staff-member/barry-keppard/)
+Guest lecturer: {{% resource_link "9c574f65-fad4-4ab0-a2dd-558e21d3c4c9" "Barry Keppard, MAPC" %}}
 
 
 {{< tdclose >}}
@@ -137,7 +137,7 @@ Scientific and social views on race, Latino health paradox, immigration and assi
 
 **Neighborhoods: Built and Natural Environment**
 
-Guest lecturer: [Peter James](https://www.hsph.harvard.edu/news/press-releases/plants-death-rates-women/), Harvard School of Public Health
+Guest lecturer: {{% resource_link "aed9d762-be53-4cbd-aa2a-450bd0becf64" "Peter James" %}}, Harvard School of Public Health
 
 Air quality, water, green space, home-based hazards, heat, extreme weather/storms, climate change. Sprawl, food environment, neighborhood amenities, safety, identity and attachment.
 
@@ -184,7 +184,7 @@ Physiological effects of stress, immune function, life course perspective, inter
 
 **Policy and Policymaking**
 
-Guest lecturer: [Lauren Smith, FSG](http://www.fsg.org/people/lauren-a-smith) (former Commissioner, Massachusetts Department of Public Health)
+Guest lecturer: {{% resource_link "9daaa4c8-f684-4f46-ac8f-494222a23d56" "Lauren Smith, FSG" %}} (former Commissioner, Massachusetts Department of Public Health)
 
 Costs and benefits of bringing a health lens to non-health policies; planning and the Patient Protection and Affordable Care Act.
 
@@ -307,7 +307,7 @@ HIA pitfalls and triumphs, with examples.
 
 **State of the Practice**
 
-Guest lecturer: Bethany Rogerson, [Health Impact Project](http://www.pewtrusts.org/en/projects/health-impact-project/about)
+Guest lecturer: Bethany Rogerson, {{% resource_link "8221d314-2ad8-4cf8-b2df-825ef51bb24d" "Health Impact Project" %}}
 
 The breadth, scope, and growth of HIA practice. Comparison to other impact assessment.
 
@@ -324,7 +324,7 @@ The breadth, scope, and growth of HIA practice. Comparison to other impact asses
 
 **Alternatives to HIA**
 
-Guest lecturer: [Barry Keppard, MAPC](http://www.mapc.org/about-mapc/staff/barry-keppard-0)
+Guest lecturer: {{% resource_link "f923adec-ff6f-497f-8e15-023752c7fde8" "Barry Keppard, MAPC" %}}
 
 Health in all policies, health lens analysis, other tools.
 
